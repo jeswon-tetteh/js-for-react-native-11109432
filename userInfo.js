@@ -1,4 +1,4 @@
-// userInfo.js
+"// userInfo.js
 
 function createUserProfiles(names, modifiedNames) {
     return names.map((name, index) => ({
@@ -8,6 +8,6 @@ function createUserProfiles(names, modifiedNames) {
     }));
 }
 
-module.exports = { createUserProfiles };
+module.exports = { createUserProfiles };" > userInfo.js
 
 
